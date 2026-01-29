@@ -1,0 +1,14 @@
+Code 1:
+#include <iostream>
+int main() {
+std:: cout << "Hello, World!" << std::endl;
+return 0;
+}
+Code 2:
+#Include <iostream>
+int main() {
+std:: cout << "Malik Tunkara!" << std::endl;
+std:: cout << "CSCI 271" << std::endl;
+std:: cout << "sports, videogames" << std::endl;
+return 0;
+}
